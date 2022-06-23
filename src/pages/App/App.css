@@ -1,0 +1,13 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.navbar-nav-scroll {
+    --bs-scroll-height: 100px
+}
+
+.input-group-text:hover{
+    cursor: pointer;
+}
